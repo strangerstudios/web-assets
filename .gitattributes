@@ -1,0 +1,20 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Images - treat as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.heic binary
+*.webp binary
+
+# PDFs
+*.pdf binary
+
+# Fonts
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
